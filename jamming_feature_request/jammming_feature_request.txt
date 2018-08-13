@@ -1,0 +1,4 @@
+Feature Request: Ensure that entered playlist’s name isn’t already used
+(August 12th 2018)
+
+https://docs.google.com/document/d/1yd7oYp4aVIFBa_Vjtktr0lo-bbqOFvXWRV7emr2VZJU/edit?usp=sharing
